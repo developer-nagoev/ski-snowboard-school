@@ -7,3 +7,4 @@
 4. Implementation of the mobile menu and testimonials carousel using vanilla JavaScript.
 5. The document is being tested for validity [http://validator.w3.org](http://validator.w3.org/)
 6. Adaptive layout is implemented using media queries.
+7. Google Lighthouse: Performance - 100; Accessibility - 93;
